@@ -1,0 +1,2 @@
+rootProject.name = "MideaPlayer App"
+include ':app'
